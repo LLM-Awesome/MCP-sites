@@ -9,10 +9,9 @@
 | 1        | **MCP.so**                | [https://mcp.so](https://mcp.so)  | ✅ **可访问**   | 2025-06-10     | 收录4,774+服务器 |
 | 2        | **Camel-ai MCP**          | [https://mcp.camel-ai.org](https://mcp.camel-ai.org) | ✅ **可访问** | 2025-06-10     | 新增学术研究型Hub |
 | 3        | **MCPHub**                | [https://github.com/samanhappy/mcphub](https://github.com/samanhappy/mcphub) | ✅ **可访问** | 2025-06-10      | 开源桌面应用 |
-| 4        | **MCP Servers Hub**       | GitHub仓库 `byapappascs/mcp-servers-hub` | ✅ **可访问** | 2025-06-10      | 精选目录型 |
+| 4        | **MCP Servers Hub**       | [GitHub仓库 `byapappascs/mcp-servers-hub` ](https://github.com/apappascs/mcp-servers-hub) | ✅ **可访问** | 2025-06-10      | 精选目录型 |
 | 5        | **PulseMCP**              | [https://www.pulsemcp.com](https://www.pulsemcp.com) | 🟡 **间歇访问** |2025-06-10    | 需刷新重试 |
 | 6        | **Smithery**              | [https://smithery.io/registry](https://smithery.io/registry) | ✅ **可访问** |2025-06-10     | LLM工具导向 |
-| 7        | **mcp.run**               | [https://mcp.run](https://mcp.run) | ❌ **无法访问** | 2025-06-10     | 已停止服务 |
 | 8        | **OpenTools**             | [https://opentools.ai](https://opentools.ai) | ✅ **可访问** | 2025-06-10      | 开放生态系统 |
 | 9        | **果果AI**                | [https://guoguo.ai](https://guoguo.ai) | ✅ **可访问** | 2025-06-10     | 中文集成平台 |
 | 10       | **Glama.ai**              | [https://glama.ai/mcp](https://glama.ai/mcp) | ✅ **可访问** | 2025-06-10      | API驱动目录 |
